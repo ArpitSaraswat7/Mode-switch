@@ -1,0 +1,21 @@
+*{
+    margin: 0px;
+    padding: 0px;
+}
+#navbar{
+    height: 50px;
+    background-color: black;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+}
+.icon{
+    color: white;
+    color: white;
+}
+span:hover{
+    cursor: pointer;
+    scale: 1.2;
+    color: green;
+    transition-duration: 1s;
+}
